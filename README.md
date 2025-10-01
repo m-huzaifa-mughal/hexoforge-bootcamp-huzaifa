@@ -8,7 +8,7 @@ Currently sharpening skills in **React, TypeScript, Python FastAPI, and PostgreS
 
 ## 🚀 Progress Tracker  
 - [x] **Phase 1:** Foundation (HTML & CSS)  
-- [x] **Phase 2:** Interactive Web (JavaScript)  
+- [ ] **Phase 2:** Interactive Web (JavaScript)  
 - [ ] **Phase 3:** Modern Frontend (React + TypeScript)  
 - [ ] **Phase 4:** Backend Development (Python FastAPI)  
 - [ ] **Phase 5:** Database Integration (PostgreSQL)  
